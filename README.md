@@ -27,11 +27,11 @@ O padrão Singleton foi utilizado para garantir que exista apenas **uma instânc
 1. Certifique-se de ter o Python instalado (versão 3.6+).
 2. Baixe ou clone este repositório:
    ```bash
-  https://github.com/juliamzgch/Marketplace-Singleton-.git
+    https://github.com/juliamzgch/Marketplace-Singleton-.git
    ```
 3. Execute o arquivo principal:
    ```bash
-   python marketplace.py
+     python marketplace.py
    ```
 ## 🧩 Funcionalidades
 
