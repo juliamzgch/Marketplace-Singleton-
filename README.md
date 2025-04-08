@@ -27,7 +27,7 @@ Utilizado para garantir que exista apenas **uma instância** do gerenciador cent
 1. Certifique-se de ter o Python instalado (versão 3.6+).
 2. Baixe ou clone este repositório:
    ```bash
-  
+  https://github.com/juliamzgch/Marketplace-Singleton-.git
    ```
 3. Execute o arquivo principal:
    ```bash
